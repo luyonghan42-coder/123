@@ -1,0 +1,6 @@
+{
+  "name": "PyStudio — Python 互動教學與線上實作平台",
+  "description": "專為繁體中文開發者與學習者打造的 Python 3 互動教學網站與即時程式碼沙盒，整合漸進式課程、標準函式庫探索與實機直譯環境。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
